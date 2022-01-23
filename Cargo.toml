@@ -1,0 +1,9 @@
+[package]
+name = "tic_tac_toe_state_machine"
+version = "0.1.0"
+edition = "2021"
+
+[features]
+
+[dependencies]
+itertools = "0.10.3"
